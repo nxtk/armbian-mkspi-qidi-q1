@@ -1,5 +1,8 @@
 {
     "[*.inc]": {
         "editor.defaultFormatter": "foxundermoon.shell-format"
-    }
+    },
+    "python.analysis.extraPaths": [
+        "./cache/pip/base/lib/python3.12/site-packages"
+    ]
 }

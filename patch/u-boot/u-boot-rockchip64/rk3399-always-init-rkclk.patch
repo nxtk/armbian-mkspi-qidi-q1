@@ -12,7 +12,7 @@ index f8cbda44..687c3ad7 100644
 --- a/drivers/clk/rockchip/clk_rk3399.c
 +++ b/drivers/clk/rockchip/clk_rk3399.c
 @@ -1394,7 +1394,7 @@ static int rk3399_clk_probe(struct udevice *dev)
- 	}
+
  #endif
  
 -	if (init_clocks)
